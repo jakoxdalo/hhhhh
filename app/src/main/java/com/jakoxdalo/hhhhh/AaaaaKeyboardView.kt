@@ -6,7 +6,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 
-package io.github.dkter.aaaaa
+package com.jakoxdalo.hhhhh
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -161,13 +161,13 @@ class AaaaaKeyboardView(
     }
 
     private fun onUppercase() {
-        btnA.text = "A"
+        btnA.text = "H"
         val colorPrimary = ContextCompat.getColor(context, R.color.colorPrimary)
         btnUppercase.drawable.setTint(colorPrimary)
     }
 
     private fun onLowercase() {
-        btnA.text = "a"
+        btnA.text = "h"
         val colorControlNormal = themeWrapper
                 .theme
                 .obtainStyledAttributes(intArrayOf(android.R.attr.colorControlNormal))

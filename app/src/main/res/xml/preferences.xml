@@ -31,11 +31,12 @@
             app:iconSpaceReserved="false" />
 
         <SwitchPreferenceCompat
-            app:key="@string/minimalistModeKey"
-            app:title="@string/minimalistMode"
-            app:summary="@string/minimalistModeDesc"
+            android:layout_height="match_parent"
             app:defaultValue="false"
-            app:iconSpaceReserved="false" />
+            app:iconSpaceReserved="false"
+            app:key="@string/minimalistModeKey"
+            app:summary="@string/minimalistModeDesc"
+            app:title="@string/minimalistMode" />
 
     </PreferenceCategory>
 

@@ -6,7 +6,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 
-package io.github.dkter.aaaaa
+package com.jakoxdalo.hhhhh
 
 import android.inputmethodservice.InputMethodService
 import android.text.TextUtils
@@ -45,7 +45,7 @@ class AaaaaInputMethodService : InputMethodService(), AaaaaKeyboardView.AaaaaKey
     override fun onStartInputView(info: EditorInfo, restarting: Boolean) {
         // Since the theme is set when the keyboard is created, we need to
         // recreate the keyboard every time the keyboard is started.
-        // Otherwise the theme can't be changed without killing the aaaaa
+        // Otherwise the theme can't be changed without killing the hhhhh
         // app entirely and restarting it.
         setInputView(onCreateInputView())
     }
@@ -66,7 +66,7 @@ class AaaaaInputMethodService : InputMethodService(), AaaaaKeyboardView.AaaaaKey
     }
 
     override fun onA() {
-        inputChar(if (isUppercase) 'A' else 'a')
+        inputChar(if (isUppercase) 'H' else 'h')
     }
 
     override fun onLongA() {

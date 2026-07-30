@@ -7,31 +7,31 @@
   -->
 
 <resources>
-    <string name="app_name">aaaaa</string>
-    <string name="a">a</string>
+    <string name="app_name">hhhhh</string>
+    <string name="a">h</string>
     <string name="space">space</string>
     <string name="backspace">backspace</string>
     <string name="enter">return</string>
     <string name="uppercase">caps lock</string>
 
-    <string name="enableKeyboardHeader">Enable keyboard</string>
-    <string name="enableKeyboardSubheader">To use this keyboard, you need to enable it in settings.</string>
-    <string name="openKeyboardSettings">Click to open keyboard settings</string>
-    <string name="closeKeyboardSettingsReminder">I already did, please go away</string>
+    <string name="enableKeyboardHeader">enable keyboard</string>
+    <string name="enableKeyboardSubheader">to use this keyboard, you need to enable it in settings.</string>
+    <string name="openKeyboardSettings">click to open keyboard settings</string>
+    <string name="closeKeyboardSettingsReminder">i already did, please go away</string>
 
     <string name="toastFeatureNotImplemented">Feature not implemented</string>
     <string name="toastDisableHapticFeedback">you monster</string>
 
-    <string name="textBoxPlaceholder">Test your new keyboard here</string>
-    <string name="errorInvalidCharacters">Error: invalid characters detected</string>
+    <string name="textBoxPlaceholder">test your new keyboard here</string>
+    <string name="errorInvalidCharacters">error: invalid characters detected</string>
 
-    <string name="settingsHeader">Settings</string>
-    <string name="enableHapticFeedback">Enable haptic feedback on tap</string>
-    <string name="themeSetting">Theme</string>
-    <string name="minimalistMode">Minimalist mode</string>
-    <string name="minimalistModeDesc">Disable space and caps lock keys</string>
+    <string name="settingsHeader">settings</string>
+    <string name="enableHapticFeedback">enable haptic feedback on tap</string>
+    <string name="themeSetting">theme</string>
+    <string name="minimalistMode">minimalist mode</string>
+    <string name="minimalistModeDesc">disable space and caps lock keys</string>
 
-    <string name="hapticFeedbackKey">io.github.dkter.aaaaa.enableHapticFeedback</string>
-    <string name="themeSettingKey">io.github.dkter.aaaaa.themeSetting</string>
-    <string name="minimalistModeKey">io.github.dkter.aaaaa.minimalistMode</string>
+    <string name="hapticFeedbackKey">com.jakoxdalo.hhhhh.enableHapticFeedback</string>
+    <string name="themeSettingKey">com.jakoxdalo.hhhhh.themeSetting</string>
+    <string name="minimalistModeKey">com.jakoxdalo.hhhhh.minimalistMode</string>
 </resources>

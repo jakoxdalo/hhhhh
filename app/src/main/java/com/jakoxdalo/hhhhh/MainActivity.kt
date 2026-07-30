@@ -6,7 +6,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 
-package io.github.dkter.aaaaa
+package com.jakoxdalo.hhhhh
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
@@ -156,7 +156,7 @@ class MainActivity: AppCompatActivity(), TextWatcher {
         text: CharSequence?, start: Int, before: Int, count: Int
     ) {
         if (text != null) {
-            val withoutA = text.replace("[aA]".toRegex(), "")
+            val withoutA = text.replace("[hH]".toRegex(), "")
             val errorField = findViewById<TextView>(R.id.textBoxErrorField)
             if (!withoutA.isBlank()) {
                 errorField.text = getString(R.string.errorInvalidCharacters)

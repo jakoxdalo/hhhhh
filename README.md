@@ -1,8 +1,5 @@
 # a minimalist keyboard
 
-![screenshot](doc/screenshot.png)
-
-## download (Android 5.0+)
-[Google Play Store](https://play.google.com/store/apps/details?id=io.github.dkter.aaaaa)  
-[F-Droid](https://f-droid.org/packages/io.github.dkter.aaaaa)  
-[APK](https://github.com/dkter/aaaaa/releases/latest)  
+## download (android 5.0+)
+[F-Droid](https://f-droid.org/packages/com.jakoxdalo.hhhhh)  
+[APK](https://github.com/jakoxdalo/hhhhh/releases/latest)  
